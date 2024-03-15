@@ -13,10 +13,10 @@ const { ownername, botname, footer, ig, region, myweb, packname, author, session
 
 
 //customize settings\\
-global.APIKeys = {'https://zenzapis.xyz': YOUR_API_KEY } //credit goes to sanzy yt, if api key expire, buy it and put it here?\\ https://zenzapis.xyz
-global.owner = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.premium = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.ownernomer = '94761539856' // Add Your number Eg: ['YOUR NUMBER']
+global.APIKeys = {'https://zenzapis.xyz': https://api.whatsapp.com/send?phone=+917037780938  } //credit goes to sanzy yt, if api key expire, buy it and put it here?\\ https://zenzapis.xyz
+global.owner = ['94761539856', '7037780938' ] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.premium = ['94761539856', '7037780938' ] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.ownernomer = '7037780938' // Add Your number Eg: ['YOUR NUMBER']
 // we got your name in your whatsapp
 
 
